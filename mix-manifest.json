@@ -1,0 +1,12 @@
+{
+    "/dist/app.js": "/dist/app.js",
+    "/dist/app.css": "/dist/app.css",
+    "/dist/app.min.js": "/dist/app.min.js",
+    "/dist/app.min.css": "/dist/app.min.css",
+    "/dist/index.html": "/dist/index.html",
+    "/dist/assets/hanger.fbx": "/dist/assets/hanger.fbx",
+    "/dist/assets/untitled_Chrome Metal_BaseColor.png": "/dist/assets/untitled_Chrome Metal_BaseColor.png",
+    "/dist/assets/untitled_Chrome Metal_Metallic.png": "/dist/assets/untitled_Chrome Metal_Metallic.png",
+    "/dist/assets/untitled_Chrome Metal_Normal.png": "/dist/assets/untitled_Chrome Metal_Normal.png",
+    "/dist/assets/untitled_Chrome Metal_Roughness.png": "/dist/assets/untitled_Chrome Metal_Roughness.png"
+}
